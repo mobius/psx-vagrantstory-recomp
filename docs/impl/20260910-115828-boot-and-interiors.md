@@ -1,0 +1,6 @@
+# 公共函数与中部入口补齐
+基于已审计PRG的直接调用补入131个boot入口，再依据同版本公开type:func标记补入10个；种子总数644。rcos/rsin及80041124等已进入生成调度表，新Windows构建通过。
+collect_battle_interiors.py只接受运行统计中entries>0、位于BATTLE候选代码区且实时64字节与已核对光盘一致的入口；证据写入seeds/battle-interiors.json。
+首批2个入口800988BC/800B16F4编译成功、重扫后解释指令计数增长均为0。后续16个入口编译成功，0失败。累计动态库89个（含上轮缓存）。
+probe_new_game.py在frame3596确认区域0100且stateFlags.unkD=0；剧情持续推进，已到地窖入口。早前单张相同画面不能证明冻结，输入/剧情阶段与自动演出已分开记录。
+本地PCSX-Redux参考采集18000帧结束，未启用WebServer/GDB；raw截图经本地渲染器转换PNG。版本25316.20260909.6.x64，changeset954677b50a0d1d8485f894c3778c38d6e3a4bf1a，下载SHA1已核对。

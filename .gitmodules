@@ -1,0 +1,9 @@
+[submodule "psxrecomp"]
+	path = psxrecomp
+	url = https://github.com/mstan/psxrecomp.git
+[submodule "references/rood-reverse"]
+	path = references/rood-reverse
+	url = https://github.com/ser-pounce/rood-reverse.git
+[submodule "references/pcsx-redux"]
+	path = references/pcsx-redux
+	url = https://github.com/grumpycoders/pcsx-redux.git

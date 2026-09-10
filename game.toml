@@ -1,0 +1,58 @@
+# Autofilled by tools/new_project_layout/probe_disc.py from your legal dump.
+# Review before shipping. Runtime quirks / overlay seeds still need hand work.
+
+[game]
+name = "Vagrant Story"
+id = "SLUS-01040"
+players = 1
+exe = "local/disc/SLUS_010.40"
+disc = "local/disc/Vagrant Story (USA).cue"
+load_address = "0x80010000"
+entry_pc = "0x8001F544"
+text_size = "0x00052000"
+stack_base = "0x801FFFF0"
+
+# Digests are for data Track 01 (first BINARY FILE / TRACK 01).
+[prepare_disc]
+out_dir = "local/disc"
+bin_name = "Vagrant Story (USA).bin"
+cue_name = "Vagrant Story (USA).cue"
+boot_exe = "SLUS_010.40"
+known_sizes = [750643152]
+known_md5 = [
+  "8531bc73ea7cd33a4c8e97bdf139ba9c",
+]
+known_sha1 = [
+  "38c63db6c49a06b91d87cd5a4e31b1ec68fe212c",
+]
+known_crc32 = [
+  "eb695a2e",
+]
+
+[recompiler]
+seeds = "seeds/ghidra_funcs.txt"
+out_dir = "generated"
+strict = true
+
+[runtime]
+overlay_backend = "gcc"
+overlay_autocompile_cmd = 'powershell.exe -NoProfile -File tools/compile-overlays.ps1'
+overlay_cache = true
+overlay_capture_history = true
+overlay_capture_persist_dir = 'local/overlay-history'
+window_title = "Vagrant Story Recompiled"
+memcard_dir = "local/saves"
+
+[video]
+renderer = "opengl"
+aspect_ratio = "4:3"
+
+[controller]
+default_mode = "digital"
+
+# Online mount gate: digests + track count + optional TOC fingerprint
+# (see docs/NETPLAY.md).
+[netplay]
+require_cue = true
+required_tracks = 1
+required_disc_fp = "671e8a6aefa47f9d5ae9bd4a2f3a50952ccb619a8be3013cd42b9b41302a7651"

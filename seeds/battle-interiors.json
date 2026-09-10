@@ -1,0 +1,354 @@
+[
+  {
+    "pc": "0x800987C0",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 506754,
+    "matching_prefix_sha256": "2d9e22aa9f8af0083bf019f6df3f764be0d4811e0289a14666c8c5b6ce3e38c8"
+  },
+  {
+    "pc": "0x800B0824",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 36198,
+    "matching_prefix_sha256": "fb3e573143a1340fc6ddcf7ec6ff0ae840949a0b8d594291f1e454fd67a6364e"
+  },
+  {
+    "pc": "0x80090B0C",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 59712,
+    "matching_prefix_sha256": "31893a2b4a5d413ee574645fdeb88a86a4a0940f27ecf987d9a6a549cac3bee8"
+  },
+  {
+    "pc": "0x800B186C",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 961378,
+    "matching_prefix_sha256": "dbce9bbf5b8f8a8adcb5f138eeb2969e6aa76182fa4be1697ce0264633e320fa"
+  },
+  {
+    "pc": "0x800B184C",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 997934,
+    "matching_prefix_sha256": "81c800fa36ddd257412b0b06cc0c980bdcf54229097c4a38e8c0ae9c1778f10a"
+  },
+  {
+    "pc": "0x800CFBCC",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 18817,
+    "matching_prefix_sha256": "de4d124650cef5d8b607b2c323a0f6d3a119926467afe8acd371edafe2cf3e7e"
+  },
+  {
+    "pc": "0x800B17D4",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 16310,
+    "matching_prefix_sha256": "746cd241243c275d1e92dc3fd57872f4ffa79f47a335bf77ce1f69f8f8a59f56"
+  },
+  {
+    "pc": "0x800B4D88",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 20501,
+    "matching_prefix_sha256": "9867ba5c412ee8d783e72b308bf0e9634dc493c6e573a889c306bd61b4412b27"
+  },
+  {
+    "pc": "0x800B182C",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 683348,
+    "matching_prefix_sha256": "07bdcb9562d2ee948c7c25675d2f881a05a2e8e4c36dca1e01de9b8e973a9c5d"
+  },
+  {
+    "pc": "0x800922E4",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 2780,
+    "matching_prefix_sha256": "b36e6927e20cd14542970c852aee7415a3a66808170fb3bb6c92a38d8458711f"
+  },
+  {
+    "pc": "0x800B1754",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 8355,
+    "matching_prefix_sha256": "4c3092cce9801e6517260f1ec95b22bf61862c3dfc05c366d18ca303dc752344"
+  },
+  {
+    "pc": "0x80098780",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 493320,
+    "matching_prefix_sha256": "e13793b34f5e79c6329f085648856e9147d92647502eb6e3adbbea275ffd2226"
+  },
+  {
+    "pc": "0x800987A0",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 500183,
+    "matching_prefix_sha256": "b5cdf427a29e00f8d49a077ea44ce10d864a8c103882d1b0b0cfde68cc3e74ae"
+  },
+  {
+    "pc": "0x800D0BCC",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 7059,
+    "matching_prefix_sha256": "8d89a4b40811cc9d89f707bf488a3101e8cc6820d7b399712e3b511349206d94"
+  },
+  {
+    "pc": "0x800BFD74",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 46321,
+    "matching_prefix_sha256": "63732c199ed9a5bd6255e4167d2ab53b523f50f39efede064c5800508483d442"
+  },
+  {
+    "pc": "0x8007644C",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 100604,
+    "dispatch_entries": 5560,
+    "matching_prefix_sha256": "ab1a54ec63d585ed29313d7df3deb016abb4399d11209469a7b21f4b3de35741"
+  },
+  {
+    "pc": "0x8009785C",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 19026,
+    "matching_prefix_sha256": "90d6ef883fdeebc523bdba9ad57a3ffaeb96dd466cdbfe9d254c6dec939397a1"
+  },
+  {
+    "pc": "0x80097524",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 28539,
+    "matching_prefix_sha256": "e1fad83aa1eb24f251e534fad578a6c63508756af0e7b2c1c5e8e70ab4737c9f"
+  },
+  {
+    "pc": "0x800DB898",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 69637,
+    "matching_prefix_sha256": "10b71908bac39f8eb25bc8080d25f23c5f422ac5bd7c69427990dd4f91352bfa"
+  },
+  {
+    "pc": "0x800D2F04",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 6275,
+    "matching_prefix_sha256": "f0b94f3ea91f3aa53fa6479214e77b083fc2459fee7f1abdf4b7d199fb7f6f4d"
+  },
+  {
+    "pc": "0x800B4D50",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 20501,
+    "matching_prefix_sha256": "03b6b620e9d1ceac8030b39591aa425ee3cb5d48687a1a0fee5b7334f543696d"
+  },
+  {
+    "pc": "0x800B17B4",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 251622,
+    "matching_prefix_sha256": "cb878bc71c5c3ba9425052b65627baf010b87ba9643157d440532616d66d74af"
+  },
+  {
+    "pc": "0x800B1734",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 221759,
+    "matching_prefix_sha256": "c5d6df99026a02cc977aeebb89db5546fef32df455ce651775e53b5b1cc7bb88"
+  },
+  {
+    "pc": "0x8009899C",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 137711,
+    "matching_prefix_sha256": "8657e782a80e9caaacde55d140571025e90b92746000d05d6b0d01f61c974d2c"
+  },
+  {
+    "pc": "0x800B1714",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 194145,
+    "matching_prefix_sha256": "098b167467ca602dbb8124b1dfbf0ea4b47c4fddd28e854ccca9d1722ac4c4b0"
+  },
+  {
+    "pc": "0x800B1774",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 97588,
+    "matching_prefix_sha256": "744d70d0c33bdbd89579723544999c278dacf4906ae5ce20cab719abbe2b2eb9"
+  },
+  {
+    "pc": "0x800B1794",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 89976,
+    "matching_prefix_sha256": "c7bccf44c29b95e19473c405f67e0b9fd10baebd6bce74c58589c8ce8b6445b5"
+  },
+  {
+    "pc": "0x80090AD4",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 59712,
+    "matching_prefix_sha256": "c42a0f70d6c02f835f9341c23dd86207bd203e2e3d13b94307487679b62ce13a"
+  },
+  {
+    "pc": "0x80090A44",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 59712,
+    "matching_prefix_sha256": "9aaa2c4b75ceb651c090aa723ead9e9d1a5c45da5a9fa4f2c65ece415f77468c"
+  },
+  {
+    "pc": "0x8007A8D8",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 5560,
+    "matching_prefix_sha256": "57ff65c786887c07d3ff49fc899110c505fe9dd4017ad8ad92c9c62d48530d82"
+  },
+  {
+    "pc": "0x80090A68",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 59712,
+    "matching_prefix_sha256": "3d78effad9eed93081d925b91b39c92a59ae2bc6858f7175b6045c2d2bb570e4"
+  },
+  {
+    "pc": "0x800D3EC4",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 155097,
+    "dispatch_entries": 7843,
+    "matching_prefix_sha256": "e42e22d46967372cf3b5ac6a6f87f0e040871539cee126799b1da7fa56a03b14"
+  },
+  {
+    "pc": "0x800CFBB0",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 2357,
+    "matching_prefix_sha256": "ce58168729b613c87d326db5d53f90a95bf0d9d41cd8f83fd87a16de5e20dc95"
+  },
+  {
+    "pc": "0x800988FC",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 15380,
+    "matching_prefix_sha256": "c5d6df99026a02cc977aeebb89db5546fef32df455ce651775e53b5b1cc7bb88"
+  },
+  {
+    "pc": "0x80076304",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 5560,
+    "matching_prefix_sha256": "ec61a23b78f5001d4091c20e61c4fcf9a6bba588acd7cab1f65a1de5a2f49900"
+  },
+  {
+    "pc": "0x800ADD58",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 30,
+    "matching_prefix_sha256": "8a5b407a7e8f0a74384da30030498483bf139b4719a49e2ca68958135278e917"
+  },
+  {
+    "pc": "0x80076408",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 5560,
+    "matching_prefix_sha256": "1081357ec91c2dbfd0359be197b10e882b6a119c4bf61144e020f1bfebce4b84"
+  },
+  {
+    "pc": "0x800D2EE4",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 6275,
+    "matching_prefix_sha256": "f210a193097303c80755c63ef053b70bf73d2ed69c75c649a0646e9ff79ed2a9"
+  },
+  {
+    "pc": "0x800C8488",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 1,
+    "matching_prefix_sha256": "935453db064d4f2d6110644704187cc36f1a06dfa97ac4bf85885f24bdc3641b"
+  },
+  {
+    "pc": "0x800D30DC",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 1568,
+    "matching_prefix_sha256": "3a7f272cedefb43e80c140d22d935c2b7d1d9fdda6119e108c46e947064ef28d"
+  },
+  {
+    "pc": "0x800762F4",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 5560,
+    "matching_prefix_sha256": "83481e8bf4063ce9f1dd5ae158898c35ef8d26f94aea24dbf93a892bf9a51fbc"
+  },
+  {
+    "pc": "0x800762E0",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 5560,
+    "matching_prefix_sha256": "a1369a89c66ad273a1519fa5e2e3ae12f1127f88ff0516d49104a99676ac3d2e"
+  },
+  {
+    "pc": "0x800922D0",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 2780,
+    "matching_prefix_sha256": "e7d405c95a0d7b1c3288cf0bbc22fd7dd1a4a66c1d23e1176040317b512e2bd2"
+  },
+  {
+    "pc": "0x80076434",
+    "source": "BATTLE/BATTLE.PRG",
+    "source_sha1": "d53aaccc3b3a2fc057d05e0dcea92f7182bc72a9",
+    "observed_frame": 275445,
+    "dispatch_entries": 5560,
+    "matching_prefix_sha256": "98c13e0cdff5d8ab4b1f94e57066834b8247b3916c961376170082b52eee582e"
+  }
+]
